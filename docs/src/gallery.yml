@@ -102,3 +102,10 @@
   image: https://github.com/fenics-dolfiny/dolfiny/blob/main/book/logo.svg
   description: Computational mechanics demos of dolfiny, an extension module of the finite element library FEniCSx, rendered as jupyter book.
   tags: Computational Mechanics; FEniCS; Documentation; University of Luxembourg
+
+- name: Applied Linear Algebra
+  website: https://thelinearalgebrabook.com
+  repository: https://github.com/jwjohnson314/linear-algebra-book
+  image: https://github.com/jwjohnson314/linear-algebra-book/assets/logo.png
+  description: An introduction to linear algebra with a focus on numerical methods and applications in machine learning and AI.
+  tags: Mathematics; Machine Learning; AI; Education 
