@@ -108,4 +108,4 @@
   repository: https://github.com/nocomplexity/securitytesting
   image: https://raw.githubusercontent.com/nocomplexity/securitytesting/refs/heads/main/images/ca_logo_small.png
   description: Gain a deep understanding of the methodologies and specialized tools used to conduct professional-grade security validation for Python applications.
-  tags: Python; Cybersecurity; SAST; Course ; Education;
+  tags: Python; Cybersecurity; SAST; Course; Education;
