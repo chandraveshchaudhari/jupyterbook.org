@@ -22,6 +22,7 @@ site:
     logo_dark: https://raw.githubusercontent.com/jupyter-book/jupyterbook.org/refs/heads/main/docs/media/images/logo-dark.svg
     internal_domains: jupyterbook.org
   parts:
-    footer: _site/footer.md
+    # This needs to point to a github raw file because other sites extend it, and this ensures it resolves for them
+    footer: https://raw.githubusercontent.com/jupyter-book/jupyterbook.org/refs/heads/main/docs/_site/footer.md
 
 
