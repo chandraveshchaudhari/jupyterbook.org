@@ -5,12 +5,28 @@
 # Add in the metadata for your book.
 # Keep the description brief, limited to 500 characters (including spaces).
 # ==========================
+
+# ==========================
+# Templates & Starter Projects
+# ==========================
+
 - name: Jupyter Book Workshop Template
   website: https://jupyter-book.github.io/workshop-template/
   repository: https://github.com/jupyter-book/workshop-template
   image: https://github.com/jupyter-book/workshop-template/blob/main/content/figures/logo.svg
   description: A GitHub Template repository designed for use in Jupyter Book 2 and MyST workshops.
   tags: JupyterBook; Tutorial
+
+- name: JupyterBook + JupyterLite Quick Launch Template
+  website: https://chandraveshchaudhari.github.io/Jupyterbook_with_lite_template/
+  repository: https://github.com/chandraveshchaudhari/Jupyterbook_with_lite_template
+  image: https://raw.githubusercontent.com/chandraveshchaudhari/Jupyterbook_with_lite_template/67d4c61362c595d3e92fc71a7559dd73cfce5032/notebooks/_static/images/banner_image.png
+  description: A beginner-friendly template to launch Jupyter Book websites on GitHub Pages in seconds, with built-in offline Python using JupyterLite. Includes automated deployment, minimal configuration, and a fork-first workflow designed for non-technical users.
+  tags: JupyterBook; Template; JupyterLite; GitHub Pages; Beginner Friendly; Offline Python
+  
+# --------------------------
+# Books & Projects
+# --------------------------
 
 - name: The Turing Way handbook to reproducible, ethical and collaborative data science.
   website: https://book.the-turing-way.org/
